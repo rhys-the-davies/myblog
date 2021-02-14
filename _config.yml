@@ -19,6 +19,8 @@ baseurl: /myblog
 domain_name: "https://github.com/rhys-the-davies"
 google_analytics: "UA-XXXXXXXX-X"
 
+collections:
+  - medium_posts
 
 plugins: 
   - jekyll-feed
