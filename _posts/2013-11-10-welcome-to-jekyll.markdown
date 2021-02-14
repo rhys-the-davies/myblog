@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2013-11-10 10:18:00
-categories: Thriller Comedy Horror
+date:   2021-02-14 16:50:00
+categories: how-to tutorial jekyll github-pages liquid
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
