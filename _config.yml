@@ -1,6 +1,15 @@
-name: rhys-the-davies Blog
+title: rhys-the-davies
+email: rhys.michael.davies@gmail.com
+name: rhys-the-davies
+
 description: Blogging about stuff and things
 meta_description: "rhys-the-davies Blog site for all things"
+
+twitter_username: rhys_the_davies
+github_username:  rhys-the-davies
+
+author: Rhys Davies
+linkedin_username: rhys-the-davies
 
 markdown: kramdown
 highlighter: rouge
@@ -9,11 +18,15 @@ paginate: 15
 baseurl: /myblog
 domain_name: "https://github.com/rhys-the-davies"
 google_analytics: "UA-XXXXXXXX-X"
-plugins: [jekyll-paginate]
+
+
+plugins: 
+  - jekyll-feed
+  - jekyll-paginate
 
 # Details for the RSS feed generator
 url: ""
-author: "Your Name"
+copyright: "rhys-the-davies"
 
 # Disqus config
 disqus-shortname: ""
