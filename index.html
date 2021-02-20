@@ -47,7 +47,7 @@ cover: false
                 {{ site.author }}
             {% endif %}
             {% if post.categories.size > 0 %} 
-                {{ post.categories | array_to_sentence_string | prepend: '- Categories: ' }} 
+                {{ post.categories | array_to_sentence_string | prepend: '- Tags: ' }} 
             {% endif %}
             <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
                 {{ post.date | date_to_string }}
