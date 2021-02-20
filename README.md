@@ -1,6 +1,6 @@
 # Rhys' Blog
 
-This repo is for my [(rhys-the-davies)](https://rhys-the-davies.com) [blog site](https://blog.rhys-the-davies.com). The theme is a port of Ghost's default theme [Casper v1](https://github.com/tryghost/casper) for Jekyll. 
+This repo is for my [(rhys-the-davies)](https://rhys-the-davies.com) [blog site](https://blog.rhys-the-davies.com). The theme is a port of Ghost's default theme [Casper v1](https://github.com/tryghost/casper) for Jekyll by [Rosario called Kasper](https://github.com/rosario/kasper)
 
 Feel free to fork, change, modify and re-use it.
 
